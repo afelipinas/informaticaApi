@@ -95,17 +95,20 @@
         {
             "id": 1,
             "nome": "Smartphones",
-            "corpo": "Confira nossos smartphones."
+            "corpo": "Confira nossos smartphones.",
+            "imagem":"https://github.com/afelipinas/informaticaApi/blob/main/assets/img/categorias/smartph.jpg?raw=true"
         },
         {
             "id": 2,
             "nome": "Notebooks",
-            "corpo":"Veja nossa seleção de notebooks."
+            "corpo":"Veja nossa seleção de notebooks.",
+            "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/categorias/notebook-2.jpg?raw=true"
         },
         {
             "id": 3,
             "nome": "Perifericos",
-            "corpo":"Temos os perifericos que você precisa."
+            "corpo":"Temos os perifericos que você precisa.",
+            "imagem":"https://github.com/afelipinas/informaticaApi/blob/main/assets/img/categorias/periferics.jpg?raw=true"
         }
     ]
 }
