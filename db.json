@@ -5,28 +5,28 @@
          "produto": "Smartphone Samsung Galaxy S20 FE 5G, 6GB RAM, 128GB, Octa Core, Câmera Tripla 32MP, Tela Infinita 6.5, Azul Marinho - SM-G781BZBRZTO",
          "preco": "1999",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/smartphones/smartphone-samsung-galaxy-s20-fe-5g-6gb-ram-128gb-octa-core-camera-tripla-32mp-tela-infinita-6-5-azul-marinho-sm-g781bzbrzto_1652122822_gg.jpg?raw=true",
-         "categoriaId": 1
+         "categoriaId": "Smartphones"
         },
         {
          "id": 2,
          "produto": "Smartphone Motorola Moto E20, 32GB, 2GB RAM, Octa Core, Câmera 13MP, Tela 6.5, Cinza - PARG0031BR",
          "preco": "689",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/smartphones/moto%20e20.jpg?raw=true",
-         "categoriaId": 1
+         "categoriaId": "Smartphones"
         },
         {
          "id": 3,
          "produto": "Smartphone Samsung Galaxy A03, 4GB RAM, Octa Core, Câmera Dupla 48MP, Tela Infinita 6.5, Preto - SM-A035MZKSZTO",
          "preco": "779",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/smartphones/galaxy%20a03.jpg?raw=true",
-         "categoriaId": 1
+         "categoriaId": "Smartphones"
         },
         {
          "id": 4,
          "produto": "Smartphone Motorola Moto G71, 5G, 6GB RAM, 128GB, Câmera Tripla 50MP, Octa Core, Tela 6.4, Verde - PAS20017BR",
          "preco": "1519.05",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/smartphones/moto%20g71.jpg?raw=true",
-         "categoriaId": 1
+         "categoriaId": "Smartphones"
         }
 
     ],
@@ -36,28 +36,28 @@
          "produto": "Notebook Asus AMD Ryzen 5-3500U, 8GB RAM, SSD 256GB, 15,6', Radeon Vega 8, Windows 11 Home, Cinza - M515DA-BR1213W",
          "preco": "2599.99",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/notebooks/notebook-asus-amd-ryzen-5-3500u.jpg?raw=true",
-         "categoriaId": 2 
+         "categoriaId": "Notebooks" 
         },
         {
          "id": 2,
          "produto": "Notebook Acer Aspire 5 Intel Core i7-10510U, 8GB RAM, 512GB SSD NVMe, Tela 15.6 IPS Full HD, Windows 11 Home, Prata - A515-54-74F9",
          "preco": "3999.99",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/notebooks/notebook-acer-aspire-5-intel-core-i7-10510u.jpg?raw=true",
-         "categoriaId": 2
+         "categoriaId": "Notebooks"
         },
         {
          "id": 3,
          "produto": "Notebook Gamer Acer Nitro 5 Intel Core i7-10750H, GeForce GTX 1650, 8GB RAM, SSD 512GB, 15.6' Full HD IPS 144Hz, Win11 - AN515-55-79X0",
          "preco": "4299.99",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/notebooks/notebook-gamer-acer-nitro-5.jpg?raw=true",      
-         "categoriaId": 2
+         "categoriaId": "Notebooks"
         },
         {
          "id": 4,
          "produto": "Macbook Air Apple 13.3, Processador M1, 8GB, SSD 256GB, Space Grey - MGN63BZ/A",
          "preco": "6599.99",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/notebooks/macbook-air-apple-13-3.jpg?raw=true",
-         "categoriaId": 2
+         "categoriaId": "Notebooks"
         }
 
     ],
@@ -67,28 +67,28 @@
          "produto": "Headset Gamer Razer Kraken X Lite, Surround 7.1, Drivers 40mm, P2 - RZ04-02950100-R381",
          "preco": "179.99",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/perifericos/headset.jpg?raw=true",
-         "categoriaId": 3
+         "categoriaId": "Perifericos"
         },
         {
          "id": 2,
          "produto": "Teclado Mecânico Gamer HyperX Alloy MKW100, RGB, Switch Red, Full Size, Layout US - 4P5E1AA#ABA",
          "preco": "249.99",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/perifericos/teclado.jpg?raw=true",
-         "categoriaId": 3
+         "categoriaId": "Perifericos"
         },
         {
          "id": 3,
          "produto": "Mouse Gamer Logitech G203 LIGHTSYNC RGB, Efeito de Ondas de Cores, 6 Botões Programáveis e Até 8.000 DPI, Preto - 910-005793",
          "preco": "124.99",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/perifericos/mouse.jpg?raw=true",
-         "categoriaId": 3
+         "categoriaId": "Perifericos"
         },
         {
          "id": 4,
          "produto": "Caixa de Som Gamer Husky Gaming Storm, Preto, 6W, USB / P2, Rainbow - HGMK000",
          "preco": "99.99",
          "imagem": "https://github.com/afelipinas/informaticaApi/blob/main/assets/img/perifericos/caixa%20de%20som.jpg?raw=true",
-         "categoriaId": 3
+         "categoriaId": "Perifericos"
         }
     ],
     "Categorias":[
