@@ -94,15 +94,18 @@
     "Categorias":[
         {
             "id": 1,
-            "nome": "Smartphones"
+            "nome": "Smartphones",
+            "corpo": "Confira nossos smartphones."
         },
         {
             "id": 2,
-            "nome": "Notebooks"
+            "nome": "Notebooks",
+            "corpo":"Veja nossa seleção de notebooks."
         },
         {
             "id": 3,
-            "nome": "Perifericos"
+            "nome": "Perifericos",
+            "corpo":"Temos os perifericos que você precisa."
         }
     ]
 }
